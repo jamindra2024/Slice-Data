@@ -19,6 +19,7 @@ const DisplayPage = () => {
 
   const handleDelete = (id) => {
     dispatch(deleteFormData(id));
+    alert('Data delete permanent')
   };
 
   return (
