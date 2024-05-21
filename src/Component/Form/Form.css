@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(210, 213, 215);
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+form{
+    height: auto;
+    background-color: white;
+border-radius: 10px;
+box-shadow: 5px 5px #888888;
+   
+}
+.mb-3{
+ padding-left: 15px;
+ padding-right: 15px;
+}
+label{
+    font-size: 18px;
+    font-weight: 600;
+}
+h1{
+    background-color: blue;
+    border-radius: 10px 10px 0px 0px;
+    color: white;
+}
+.btn{
+    margin: 10px;
+}
+.link-back{
+    color: white;
+    text-decoration: none;
+}
